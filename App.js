@@ -22,5 +22,9 @@ const styles = StyleSheet.create({
 });
 
 const test = {
-  array = []
+   let  array = [1,2,3]
+   let object = {
+
+   }
+
 }
