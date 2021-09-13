@@ -24,7 +24,8 @@ const styles = StyleSheet.create({
 const test = {
    let  array = [1,2,3]
    let object = {
-
+      1: 123,
+      2: 12333
    }
 
 }
