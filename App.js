@@ -22,5 +22,5 @@ const styles = StyleSheet.create({
 });
 
 const test = {
-  
+  array = []
 }
